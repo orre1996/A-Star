@@ -1,0 +1,2 @@
+Click on a tile to add/remove a block
+Click and hold to move the star, the tradingpost or the ship
